@@ -1,0 +1,50 @@
+2025-12-21 23:22:12,255 - INFO - ==================================================
+2025-12-21 23:22:12,255 - INFO - Starting automation script
+2025-12-21 23:22:12,255 - INFO - ==================================================
+2025-12-21 23:22:12,255 - INFO - Starting headline scraping
+2025-12-21 23:22:12,766 - INFO - Successfully fetched page: https://www.comicsbeat.com/
+2025-12-21 23:22:12,836 - INFO - Found 10 headlines
+2025-12-21 23:22:12,837 - INFO - Connected to SQLite database
+2025-12-21 23:22:12,838 - INFO - Database table ready
+2025-12-21 23:22:12,848 - INFO - Saved 10 headlines to database
+2025-12-21 23:22:12,850 - INFO - Starting PDF generation
+2025-12-21 23:22:12,853 - INFO - Retrieved 20 headlines from database
+2025-12-21 23:22:12,876 - INFO - PDF generated successfully: headlines_report_20251221_232212.pdf
+2025-12-21 23:22:12,877 - INFO - Automation script completed
+2025-12-21 23:22:12,877 - INFO - ==================================================
+2025-12-22 00:18:24,561 - INFO - ==================================================
+2025-12-22 00:18:24,561 - INFO - Starting automation script
+2025-12-22 00:18:24,561 - INFO - ==================================================
+2025-12-22 00:18:24,561 - INFO - Starting headline scraping
+2025-12-22 00:18:25,133 - INFO - Successfully fetched page: https://www.comicsbeat.com/
+2025-12-22 00:18:25,217 - INFO - Found 10 headlines
+2025-12-22 00:18:25,217 - INFO - Connected to SQLite database
+2025-12-22 00:18:25,218 - INFO - Database table ready
+2025-12-22 00:18:25,229 - INFO - Saved 10 headlines to database
+2025-12-22 00:18:25,231 - INFO - Starting PDF generation
+2025-12-22 00:18:25,233 - INFO - Retrieved 30 headlines from database
+2025-12-22 00:18:25,269 - INFO - PDF generated successfully: headlines_report_20251222_001825.pdf
+2025-12-22 00:18:25,270 - INFO - Automation script completed
+2025-12-22 00:18:25,270 - INFO - ==================================================
+2025-12-22 00:21:51,174 - INFO - ==================================================
+2025-12-22 00:21:51,174 - INFO - Starting automation script
+2025-12-22 00:21:51,174 - INFO - ==================================================
+2025-12-22 00:21:51,174 - INFO - Starting headline scraping
+2025-12-22 00:21:51,747 - INFO - Successfully fetched page: https://www.comicsbeat.com/
+2025-12-22 00:21:51,819 - INFO - Found 10 headlines
+2025-12-22 00:21:51,819 - INFO - Connected to SQLite database
+2025-12-22 00:21:51,820 - INFO - Database table ready
+2025-12-22 00:22:18,482 - INFO - ==================================================
+2025-12-22 00:22:18,482 - INFO - Starting automation script
+2025-12-22 00:22:18,482 - INFO - ==================================================
+2025-12-22 00:22:18,482 - INFO - Starting headline scraping
+2025-12-22 00:22:18,971 - INFO - Successfully fetched page: https://www.comicsbeat.com/
+2025-12-22 00:22:19,041 - INFO - Found 10 headlines
+2025-12-22 00:22:19,042 - INFO - Connected to SQLite database
+2025-12-22 00:22:19,042 - INFO - Database table ready
+2025-12-22 00:22:19,052 - INFO - Saved 10 headlines to database
+2025-12-22 00:22:19,054 - INFO - Starting PDF generation
+2025-12-22 00:22:19,056 - INFO - Retrieved 40 headlines from database
+2025-12-22 00:22:19,097 - INFO - PDF generated successfully: headlines_report_20251222_002219.pdf
+2025-12-22 00:22:19,098 - INFO - Automation script completed
+2025-12-22 00:22:19,098 - INFO - ==================================================

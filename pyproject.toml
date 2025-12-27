@@ -1,0 +1,14 @@
+[project]
+name = "comics-new-python"
+version = "0.1.0"
+authors = [
+    { name = "Focusedplumes", email = "4097471+Focusedplumes@users.noreply.github.com" }
+]
+
+requires-python = ">=3.13,<3.14"
+
+dependencies = [
+    "bs4",
+    "reportlab",
+    "requests",
+]
